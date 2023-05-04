@@ -1,0 +1,19 @@
+{
+  "name": "teste-unitario",
+  "version": "1.0.0",
+  "description": "Testando Jest aula 03Mai23",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/Mateus-Lucas/Teste-Unitario"
+  },
+  "author": "Mateus Lucas",
+  "license": "ISC",
+  "devDependencies": {
+    "clear": "^0.1.0",
+    "jest": "^29.5.0"
+  }
+}
